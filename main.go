@@ -8,7 +8,6 @@ import (
 	"net/http"
 
 	_ "github.com/go-sql-driver/mysql" // MySQL driver
-
 )
 
 // Data struct (same as before)
